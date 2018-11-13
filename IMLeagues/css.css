@@ -1,0 +1,57 @@
+
+
+#content
+{
+	text-align: center;
+	padding-top: 25%;
+	font-family: lato;
+	text-shadow: 0px 4px 3px rgba(255, 255, 255, 0.1),
+			/*	 0px 8px 13px rgba(255, 255, 255, 0.1),*/
+				 0px 18px 23px rgba(255, 255, 255, 0.1);
+}
+
+body{
+	background-image: url(https://s3.amazonaws.com/file.imleagues/Images/SchoolsBanners/201608/201682104550_1.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+
+
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+
+h3{
+	
+	background-color: 
+}
+
+
+
+h1, h3 {
+
+	background-color: rgba(0, 0, 0, 0.2);
+
+
+}
+
+html{
+
+	height: 100%;
+} 
+
+hr {
+	width: 400px;
+	/*border-top: 2px solid rgba(255, 255, 255, 1);*/
+	border-bottom: 2px solid rgba(255, 255, 255, 1);
+}
+
+img{
+	margin-left: 600%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}

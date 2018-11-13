@@ -1,0 +1,82 @@
+
+.content
+{
+
+	background-color:rgba(255, 255, 255, 0.8);
+	text-align: center;
+}
+
+.img{
+	margin-left: 180%;
+}
+
+input, button {
+	margin-top: 10px;
+}
+
+.lastcontent {
+	text-align: center;;
+}
+
+label {
+	color: black;
+	margin-top: 10px;
+}
+body
+	{
+	background-image: url(https://s3.amazonaws.com/file.imleagues/Images/SchoolsBanners/201608/201682104550_1.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+
+}
+
+.fb{
+
+	margin: 10px;
+}
+
+
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+p
+{
+	color: black;
+}
+
+h3{
+	
+	background-color: 
+}
+
+p{
+	margin: 10px;
+}
+
+
+h1, h3 {
+
+	background-color: rgba(0, 0, 0, 0.2);
+
+
+}
+
+html{
+
+	height: 100%;
+} 
+
+hr {
+
+	width: 400px;
+	border-top: 4px solid rgb(255, 255, 255)
+	border-bottom: 4px solid rgb(255, 255, 255);
+}
+
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
